@@ -1,0 +1,23 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`demo suite should render correct 1`] = `
+<div
+  className="form-input-wrap"
+>
+  <input
+    className="form-input"
+    onBlur={[Function]}
+    onChange={[Function]}
+    onKeyDown={[Function]}
+    placeholder="Phone Number"
+    value=""
+  />
+  <button
+    className="form-button"
+    disabled={false}
+    onClick={[Function]}
+  >
+    send
+  </button>
+</div>
+`;
