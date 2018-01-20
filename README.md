@@ -11,6 +11,10 @@
   4. re-click SEND button with the same phone number
   5. another 5 secs, receive a warning about duplicate phone number usage
 
+# Try yourself
+
+[CLICK ME!](https://kimochg.github.io/react-countdown-demo)
+
 # Run in local
 
 ```
